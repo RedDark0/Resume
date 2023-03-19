@@ -1,0 +1,100 @@
+/* .base {
+    max-width: 766px;
+    height: 648;
+    margin: 0 auto 0 auto;
+    display: flex;
+}
+
+.left {
+    width: 282px;
+    height: 648px;
+    background-color: #413838;
+    text-align: center;
+}
+
+.left > img {
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+.base {
+    width: 130px;
+    height: 648px;
+    background-color: #db0f0f;
+}
+
+.reight ul li:nth-child(1) p {
+    color: black;
+    font-size: 50px;
+    font-weight: 400;
+} */
+
+/* .body {
+    background-color: aquamarine;
+} */
+
+.base {
+    max-width: 999px;
+    height: 765px;
+    margin: 0 auto 0 auto;
+    display: flex;
+    background-color: #250af0;
+}
+
+.left {
+    width: 354px;
+    height: 765px;
+    
+    background-color: aqua;
+    text-align: center;
+}
+
+.left > img {
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+.right {
+    width: 645px;
+    height: 230px;
+    margin-top: 35px;
+    background-color: #FFDD83;
+}
+
+.name {
+    padding-left: 20px;
+    font-size: 40px;
+}
+.fam {
+    padding-left: 20px;
+    font-size: 40px;
+}
+
+.down {
+    max-width: 336px;
+    height: 400px;
+    margin: 60px auto 0 auto;
+    background-color: #98DFD6;
+    text-align: left;
+}
+
+.down > h3 {
+    font-size: 26px;
+    padding-left: 10px;
+}
+
+.down > p {
+    font-size: 13px;
+    padding-left: 10px;
+}
+
+.down1 {
+    max-width: 564px;
+    height: 400px;
+    margin: 100px auto 0 auto;
+    background-color: #98DFD6;
+    text-align: center;
+}
+/* .down > p {
+    background-color: black;
+} */
